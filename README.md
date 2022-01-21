@@ -59,3 +59,5 @@ julia main_ft_subset.jl
 | Semi-supervised (10\%)  | 88.21      |
 | Semi-supervised (1\%)      | 79.56     |
 
+- Next: 
+Colab notebook links will be added to try code instantly. 

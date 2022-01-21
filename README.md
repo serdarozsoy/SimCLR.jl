@@ -23,17 +23,17 @@ Required packages
 
 For pretraining: 
 ```
-julia pretrain.jl
+julia main_pretrain.jl
 ```
 
 For linear evaluation: 
 ```
-julia pretrain.jl
+julia main_linear.jl
 ```
 
 For semi supervised learning: 
 ```
-julia pretrain.jl
+julia main_ft_subset.jl
 ```
 
 ## Experiments (ResNet18)

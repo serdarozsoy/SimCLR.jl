@@ -11,6 +11,12 @@ SimCLR implementation in Julia with [Knet](https://denizyuret.github.io/Knet.jl/
 }
 ``` 
 
+Try pretraining in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/serdarozsoy/SimCLR.jl/blob/main/SimCLRjl_pretraining_Colab.ipynb")
+
+Try on your local or cloud environment:
+
 Required packages
 ```
 - CUDA
@@ -35,6 +41,9 @@ For semi supervised learning:
 ```
 julia main_ft_subset.jl
 ```
+ 
+
+
 
 ## Experiments (ResNet18)
 
